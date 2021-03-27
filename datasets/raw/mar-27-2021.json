@@ -1,0 +1,48 @@
+{
+  "comments": "The federal reserve is counted in this dataset. Due to inaccurate reporting by the mock government, proper counts for all parties are unavailable.",
+  "members": 93,
+  "parties": {
+    "APSP": 2,
+    "D": 26,
+    "R": 25,
+    "I": 6,
+    "L": 8,
+    "G": 1,
+    "IRE": 2,
+    "RE": 1,
+    "NO": 22
+  },
+  "partyKey": {
+    "APSP": "American People's Socialist Party",
+    "D": "Democratic Party",
+    "R": "Republican Party",
+    "I": "Independent",
+    "L": "Libertarian Party",
+    "G": "Green Party",
+    "IRE": "Independent Royalists of Estonia",
+    "RE": "Reform Party",
+    "NO": "No Party"
+  },
+  "economy": {
+    "leaderboard": [
+      10475003,
+      1596741,
+      1545134,
+      928646,
+      655702
+    ],
+    "total": 21286323
+  },
+  "activity": {
+    "daybyday": [
+      1371,
+      2113,
+      3727,
+      446,
+      181,
+      930,
+      1973
+    ],
+    "total": 10741
+  }
+}

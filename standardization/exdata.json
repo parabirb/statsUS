@@ -1,0 +1,42 @@
+// this file is commented to provide more readability
+{
+  // this is the total amount of members (excluding bots)
+  "members": 1000,
+  // this is the data for parties
+  "parties": {
+    // if a party is formed, that party should be introduced to all old datasets to prevent errors
+    "a": 1,
+    "b": 2,
+    "c": 3
+  },
+  // there's also a partyKey object with the names of acronyms of parties
+  // economy data
+  "economy": {
+    // leaderboard, from 1st to 5th
+    "leaderboard": [
+      6969,
+      1337,
+      420,
+      69,
+      42
+    ],
+    // total amount of money in the economy
+    "total": 42069
+  },
+  // activity data
+  // these censuses will be performed weekly so this is the amount of messaages from the start to finish
+  "activity": {
+    // array of message counts from days 1-7
+    "daybyday": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    // total amount of messages
+    "total": 42069
+  }
+}
